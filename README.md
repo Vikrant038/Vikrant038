@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **yadavvikrant3006@gmail.com** For Collaboration/Project or
 
 - 🔭 **I’m currently working on:** Data Analysis
 - 🌱 **I’m currently learning:** Machine Learning Algorithm
-- 👯 **I’m looking to collaborate on:** 
+- 👯 **I’m looking to collaborate on** open source projects
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
